@@ -1,22 +1,47 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 nav{
      padding:20px;
-     display: flex;
-     flex-wrap: wrap;
 }
 
-.nav-items {
-  text-align: center;
-  padding: 10px;
-  gap: 20px;
-  flex: 20%;
+nav ul li{
+    list-style: none;
 }
 
-nav a{
+nav ul li a{
     color: black;
     text-decoration: none;
-    font-weight: bold;
-    font-size:22px;
+    font-weight: medium;
+    font-size:18px;
+
 }
+
+.logo{
+    align-self: center;
+    width: 169px;
+    height: 28px;
+    
+}
+
+:popover-open { 
+	border: none;
+    height: 100%;
+	width: 50%;
+	position: fixed;
+    margin-right: 0px;
+}
+
+button {
+   border:none;
+   background-color:transparent;
+   cursor: pointer;   
+}
+
+
 
 main {
     text-align: center;
@@ -34,18 +59,8 @@ footer a{
     text-decoration: none;
 }
 
-.logo{
-    display: flex;
-    width: 169px;
-    height: 28px;
-    position: relative;
-    
-}
 
-.logo1 {
-    width: 168px;
-    height: 28px;
-}
+
 
 .contact {
     display: flex;
@@ -86,7 +101,7 @@ footer a{
     margin-bottom: 20px;
     width: 80%;
     background-color:  hsl(40, 100%, 80%);
-    margin-top: 10px;   
+    margin-top: 10px;     
     text-align: center;
     padding: 5px;
 }
@@ -104,7 +119,6 @@ footer a{
 }
 
 .knop{
-    color: ;
     text-decoration:none;
     border: 1px solid #0030B3;
     border-radius: 4px;
@@ -175,4 +189,9 @@ footer a{
 
 .leesmeer-lightmode{
   color: #000000;
+}
+
+form {
+  text-align: center;
+  padding:50px;
 }
