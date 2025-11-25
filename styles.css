@@ -74,10 +74,11 @@ footer a{
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 10px;
 }
 
 .reminder {
-    display: inline-flex;
+    display: flex;
     width: 423px;
     justify-content: center;
     align-items: center;
@@ -98,8 +99,10 @@ footer a{
     border-radius: 30px;
     display: flex;
     flex: content;
+    align-items: center;
     margin-bottom: 20px;
     width: 80%;
+    height: 110px;
     background-color:  hsl(40, 100%, 80%);
     margin-top: 10px;     
     text-align: center;
