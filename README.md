@@ -1,4 +1,4 @@
-<img width="1902" height="869" alt="image" src="https://github.com/user-attachments/assets/70322142-09c6-4507-954f-b83c5fb888a5" /># Corporate Identity
+# Corporate Identity
 
 Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
 
