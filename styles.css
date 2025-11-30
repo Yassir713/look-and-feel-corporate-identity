@@ -1,3 +1,7 @@
+:root {
+        --secondary-color-main: hsl(40, 100%, 80%);
+    }
+
 header {
     position: relative;        /* zorgt ervoor dat die menu in de header blijft */
     height: 80px;              /* Vaste hoogte */
@@ -202,7 +206,7 @@ footer a{
 
 @media (min-width: 600px) {
     header {
-        justify-content: flex-start; /* logo links */
+        justify-content: flex-start; /* logo naar links */
     }
 
     .logo {
