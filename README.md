@@ -1,4 +1,4 @@
-# Corporate Identity
+<img width="1902" height="869" alt="image" src="https://github.com/user-attachments/assets/70322142-09c6-4507-954f-b83c5fb888a5" /># Corporate Identity
 
 Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
 
@@ -9,7 +9,7 @@ De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-f
 Sprint Review Ad-connect website - Huisstijl kleuren
 
 ## Beschrijving
-Voor deze sprint ben ik helemaal opnieuw begonnen, ik heb een heel ander design gemaakt voor een veel betere website.
+Voor deze sprint ben ik helemaal opnieuw begonnen, ik heb een nieuwe design gemaakt, omdat het veel beter kan.
 Ik begon als eerst voor mobile te schetsen, deze schets heb ik verder uitgewerkt op figma:
 
 <img width="184" height="899" alt="image" src="https://github.com/user-attachments/assets/44412886-77ba-4550-917d-7080d3cfddda" />
@@ -58,17 +58,38 @@ Ik heb ook een hamburger menu gemaakt, deze zie je alleen op mobile.
 </br>
 <img width="265" height="445" alt="image" src="https://github.com/user-attachments/assets/69015347-ab91-4d53-93bb-12fff2b7021b" />
 
+En voor tablet en desktop zie je een normale navigatie bar, met het logo naar links:
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-30 214401" src="https://github.com/user-attachments/assets/66ae0da0-75b6-4859-8efe-1473edd32512" />
+
+
+Dit is de website:
+
+https://yassir713.github.io/look-and-feel-corporate-identity/
+
+Vorige sprint kreeg ik als feedback dat de kleuren consistent moeten blijven, dat heb ik dus gedaan. 
+
+Een andere punt was dat ik een popup knop had, waarmee je een uitleg kreeg te zien over ad opleidingen. De feedback was dat ik liever een korte uitleg op de site zet.
+
+The save the dates waren vorige sprint niet even groot. Ik heb ze dus even groot gemaakt.
+
+De website is responsive. Bij de save the dates worden ze op mobile kleiner zodat er twee naast elkaar kunnen en op tablet zijn ze weer drie op een rij. Vanaf het stukje hogescholen naar beneden niet. Ik heb het geprobeerd bij ontdek meer, maar ik kreeg een probleem die ik nog niet heb opgelost.
 
 
 
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+https://yassir713.github.io/look-and-feel-corporate-identity/
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Met de gezamenlijke stylesheet worden de fonts, de kleuren van de lees meer buttons en de huisstijl kleuren gebruikt.
+
+<img width="1087" height="32" alt="image" src="https://github.com/user-attachments/assets/4279c0a4-0e34-44bd-b46a-a39555dfe75d" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/84ad1869-fcb9-4af3-965c-7c4762f46a3b" />
+
 
 ## Bronnen
+Bekijk de issues, er zijn verschillende bronnen
 
 ## Licentie
 
